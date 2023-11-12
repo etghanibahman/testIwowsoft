@@ -1,6 +1,0 @@
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\bin\Debug\ServicesIWowSoft.dll
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\bin\Debug\ServicesIWowSoft.pdb
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\obj\Debug\ServicesIWowSoft.csprojAssemblyReference.cache
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\obj\Debug\ServicesIWowSoft.csproj.CoreCompileInputs.cache
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\obj\Debug\ServicesIWowSoft.dll
-G:\Projects\Employment_Tests\iwowsoft\testIwowsoft\ServicesIWowSoft\obj\Debug\ServicesIWowSoft.pdb
